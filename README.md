@@ -4,6 +4,8 @@ The Halt And Catch Fire project is a collection Vulkan programs designed to cras
 
 These programs are used to tools such as [Graphics Flight Recorder](https://github.com/googlestadia/gfr) to ensure they can effectively detect known classes of defects. Do to the nature of these programs their specific behaviour may differ depending on the specific GPU, driver or OS. Not all programs will crash
 
+This is not an officially supported Google product.
+
 ## Building
 
 ### Building on Windows
